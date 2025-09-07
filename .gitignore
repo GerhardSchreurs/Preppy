@@ -1,0 +1,27 @@
+# dependencies
+node_modules/
+
+# build output
+dist/
+
+# local env files
+.env
+.env.local
+.env.*.local
+
+# editor folders and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# lock files (optional – keep if you want strict versioning)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
