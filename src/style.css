@@ -222,6 +222,20 @@ section{padding:72px 0;border-top:1px solid #eef2fb}
   margin-right: 20px;
 }
 
+#why .actionContainer {
+  border: 1px solid var(--navy) !important;
+}
+#why .actionContainer img {
+  padding: 10px
+}
+#why .action{
+  border: none;
+  margin: 0;
+}
+#why .action .num {
+  background: var(--red);
+}
+
 @media screen and (max-width: 900px) {
   .actions {
     width: 100%;
